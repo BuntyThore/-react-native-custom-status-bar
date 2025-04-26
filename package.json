@@ -1,0 +1,26 @@
+{
+  "name": "@sominaththore/react-native-custom-status-bar",
+  "version": "1.0.8",
+  "description": "This is a customized status bar for both Android and iOS",
+  "main": "CustomStatusBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sominath Thore",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "19.0.0",
+    "react-native": "0.78.0"
+  },
+  "keywords": [
+    "react-native",
+    "status-bar",
+    "custom-status-bar",
+    "android",
+    "ios",
+    "react-native-component",
+    "react-native-ui",
+    "react",
+    "mobile-development"
+  ]
+}
